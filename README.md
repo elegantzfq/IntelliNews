@@ -1,0 +1,2 @@
+# IntelliNews
+cluster news
